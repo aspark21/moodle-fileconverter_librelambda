@@ -48,7 +48,7 @@ class converter implements \core_files\converter_interface {
         'xlsx' => 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
         'ppt' => 'application/vnd.ms-powerpoint',
         'pptx' => 'application/vnd.ms-powerpoint',
-        'html' => 'text/html',
+        'html' => 'text/plain',
         'odt' => 'application/vnd.oasis.opendocument.text',
         'ods' => 'application/vnd.oasis.opendocument.spreadsheet',
         'png' => 'image/png',
